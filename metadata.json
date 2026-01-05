@@ -1,0 +1,5 @@
+{
+  "name": "Dynamic Card Engine",
+  "description": "A powerful React-based card rendering engine that builds complex UIs from simple JSON definitions, supporting forms, charts, and interactive components.",
+  "requestFramePermissions": []
+}
